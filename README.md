@@ -24,15 +24,7 @@ Parameters:
 
 - Brightness/Contrast Max: Maximum brightness intensity to adjust the image contrast
 
-Author: Yann LE PAGE
 
-Author: Sylvain PRIGENT
-
-Author: Alexis Haas
-
-version: 1.0
-
-Date: 12/2015
   
 **Short user guide for Neurite Analyzer Plugin**
 

@@ -8,9 +8,9 @@ Parameters:
 
 - Neurites canal: Index of the channel containing the neurites
 
-- Min size of neurites: Neurite minimum area (in pixel(n<sup>2</sup>))
+- Min size of neurites: Neurite minimum area (in pixel<sup>2</sup>)
 
-- Max size of cells: Cell maximum area (in pixel(n<sup>2</sup>))
+- Max size of cells: Cell maximum area (in pixel<sup>2</sup>)
 
 - Brightness/Contrast Min: Minimum brightness intensity to adjust the image contrast
 

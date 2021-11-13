@@ -6,6 +6,8 @@ Please be so kind to cite our work.
 
 Alexis J. Haas, Sylvain Prigent, Stéphanie Dutertre, Yves Le Dréan, Yann Le Page. Neurite analyzer: An original Fiji plugin for quantification of neuritogenesis in two-dimensional images. Journal of Neuroscience Methods, Volume 271, 2016, Pages 86-91. [https://doi.org/10.1016/j.jneumeth.2016.07.011](https://doi.org/10.1016/j.jneumeth.2016.07.011)
 
+**Overview**
+
 This macro analyses the branching of neurites in 2D microscopy images of neuronal cells
 
 Parameters:

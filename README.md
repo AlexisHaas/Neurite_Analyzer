@@ -42,7 +42,7 @@ Neurite Analyzer was originally designed to work with differentiated neuronal ce
 
 1. Download and install Fiji software on your computer: [http://fiji.sc/Fiji](http://fiji.sc/Fiji)
 2. Download &quot;Neurite Analyzer.ijm&quot; file and copy it in the &quot;Macros&quot; directory of the Fiji installation directory (C:\Program Files\Fiji.app\macros).
-3. Put all your images in the same file. Note that a set of three images can be downloaded from the MRic website ([https://bioimagerie.univ-rennes1.fr/publi/haas.html](https://bioimagerie.univ-rennes1.fr/publi/haas.html)) for demonstration. All images must have the same size and the same filename extension. The filename extension should be &quot;.bmp&quot;; &quot;.tif&quot;; or &quot;.jpg&quot;.
+3. Put all your images in the same folder. Note that a set of three images can be downloaded from the repository for demonstration. All images must have the same size and the same filename extension. The filename extension should be &quot;.bmp&quot;; &quot;.tif&quot;; or &quot;.jpg&quot;.
 4. To run the plugin, go to Plugins/Macros/Run in the Fiji software, select the directory used in step 2, and then double-click on &quot;Neurite Analyzer.ijm&quot;.
 
 **III - Adjust the plugin parameters:**

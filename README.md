@@ -1,22 +1,30 @@
 # Neurite_Analyzer
-This macro analyse the branching of neurites in 2D microscopy images of neuronal cells
 
- This macro analyse the branching of neurites
- Parameters: 
-     - Image type: Extension of the images to process
- 		- Neurites canal: Index of the channel containing the neurites 
- 		- Min size of neurites: Neurite minimum area (in pixel^2) 
- 		- Max size of cells: Cell maximum area (in pixel^2)
- 		- Brightness/Contrast Min: Minimum brightness intensity to adjust the image contrast
-  		- Brightness/Contrast Max: Maximum brightness intensity to adjust the image contrast
-  
-  Author: Yann LE PAGE
-  Author: Sylvain PRIGENT
-  Author: Alexis Haas
+This macro analyses the branching of neurites in 2D microscopy images of neuronal cells
 
-  version: 1.0
-  Date: 12/2015
-  
+Parameters:
+
+- Image type: Extension of the images to process
+
+- Neurites canal: Index of the channel containing the neurites
+
+- Min size of neurites: Neurite minimum area (in pixel^2)
+
+- Max size of cells: Cell maximum area (in pixel^2)
+
+- Brightness/Contrast Min: Minimum brightness intensity to adjust the image contrast
+
+- Brightness/Contrast Max: Maximum brightness intensity to adjust the image contrast
+
+Author: Yann LE PAGE
+
+Author: Sylvain PRIGENT
+
+Author: Alexis Haas
+
+version: 1.0
+
+Date: 12/2015
   
 **Short user guide for Neurite Analyzer Plugin**
 

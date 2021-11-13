@@ -1,5 +1,10 @@
 # Neurite_Analyzer
 
+**Citing Neurite Analyzer paper**
+Please be so kind to cite our work.
+[10.1016/j.jneumeth.2016.07.011](10.1016/j.jneumeth.2016.07.011)
+Alexis J. Haas, Sylvain Prigent, Stéphanie Dutertre, Yves Le Dréan, Yann Le Page. Neurite analyzer: An original Fiji plugin for quantification of neuritogenesis in two-dimensional images. Journal of Neuroscience Methods, Volume 271, 2016, Pages 86-91. [10.1016/j.jneumeth.2016.07.011](10.1016/j.jneumeth.2016.07.011)
+
 This macro analyses the branching of neurites in 2D microscopy images of neuronal cells
 
 Parameters:
@@ -55,3 +60,4 @@ Neurite Analyzer was originally designed to work with differentiated neuronal ce
 6. Select the &quot;Max size of cells&quot;. This parameter must be carefully adjusted to exclude groups of cells from the analysis. You can start with a high value and reduce it until no cell aggregates are shown in the file &quot;\_projection.tif&quot;, after analysis.
 7. Select the &quot;Brigthness/Contrast&quot; minimum and maximum values. You can adjust those parameters if your images are too dark and if the neurites are not recognized by the plugin. Always use the same values if you want to compare different set of images.
 8. Clicking &quot;OK&quot; starts the analysis. Time taken for the process will depend on the RAM installed on your computer and on the number and size of images. When analysis is completed, you will find all the results in the directory selected on step 2.
+
